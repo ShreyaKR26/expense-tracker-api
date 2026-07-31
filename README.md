@@ -35,7 +35,7 @@ expense-tracker-api/
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ShreyaKR26/expense-tracker-api>
 cd expense-tracker-api
 mvn clean install
 ```
