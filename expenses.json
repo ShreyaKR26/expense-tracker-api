@@ -1,0 +1,43 @@
+[ {
+  "id" : 1,
+  "title" : "Lunch",
+  "amount" : 250.0,
+  "category" : "Food",
+  "date" : [ 2026, 7, 31 ]
+}, {
+  "id" : 2,
+  "title" : "Metro Ticket",
+  "amount" : 60.0,
+  "category" : "Travel",
+  "date" : [ 2026, 7, 31 ]
+}, {
+  "id" : 3,
+  "title" : "T-Shirt",
+  "amount" : 799.0,
+  "category" : "Shopping",
+  "date" : [ 2026, 7, 31 ]
+}, {
+  "id" : 4,
+  "title" : "Movie Ticket",
+  "amount" : 300.0,
+  "category" : "Entertainment",
+  "date" : [ 2026, 7, 31 ]
+}, {
+  "id" : 5,
+  "title" : "Medicine",
+  "amount" : 450.0,
+  "category" : "Health",
+  "date" : [ 2026, 7, 31 ]
+}, {
+  "id" : 6,
+  "title" : "Java Course",
+  "amount" : 1200.0,
+  "category" : "Education",
+  "date" : [ 2026, 7, 31 ]
+}, {
+  "id" : 7,
+  "title" : "Electricity Bill",
+  "amount" : 950.0,
+  "category" : "Utilities",
+  "date" : [ 2026, 7, 31 ]
+} ]
